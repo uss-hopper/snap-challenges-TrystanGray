@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="53424170-1f86-497a-b82d-d3ef19bfad35" name="snap_04_09" url="https://bootcamp-coders.cnm.edu/~tgray19/snap_04_09">
+        <fileTransfer host="bootcamp-coders.cnm.edu" port="22" rootFolder="/home/tgray19/public_html/snap_04_09" accessType="SFTP" authAgent="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
