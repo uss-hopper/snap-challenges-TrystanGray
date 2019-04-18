@@ -7,6 +7,6 @@ taskStartDate datetime,
 taskDueDate datetime,
 taskStatus varchar (64) not null,
 taskPriority varchar (64) not null,
-taskDescription varchar (254),
+taskDescription varchar (256),
 primary key (taskId)
 );
