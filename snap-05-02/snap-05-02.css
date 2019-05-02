@@ -1,0 +1,21 @@
+ul {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-around;
+	padding: 0;
+	margin: 0;
+	list-style: none;
+}
+
+li {
+	align-self: center;
+	background: tomato;
+	margin-top: 10px;
+	padding: 5px;
+	width: 200px;
+	line-height: 150px;
+	color: white;
+	font-weight: bold;
+	font-size: 3em;
+	text-align: center;
+}
