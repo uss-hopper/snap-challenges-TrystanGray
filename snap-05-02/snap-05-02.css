@@ -1,4 +1,4 @@
-ul {
+.my-list {
 	display: flex;
 	flex-wrap: wrap;
 	justify-content: space-around;
@@ -7,7 +7,7 @@ ul {
 	list-style: none;
 }
 
-li {
+.my-item {
 	align-self: center;
 	background: tomato;
 	margin-top: 10px;
