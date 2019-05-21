@@ -242,3 +242,13 @@ function removeCompany() {
 
 removeCompany();
 console.table(users);
+
+
+
+/*   OR DO THIS
+let UpdatedUsers = users.map (
+	(object) => {
+		delete object.company;
+		return object;
+	}
+);*/
